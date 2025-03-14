@@ -1,4 +1,4 @@
-# 💻 Dhana Lakshmi Dasari
+# Dhana Lakshmi Dasari
 
 ### Software Engineer | Java | Spring Boot | Cloud (AWS, Azure)
 
